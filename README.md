@@ -1,4 +1,5 @@
 # Balls
+* Written in C++
 * 2-dimensional
 * Uses SFML
 * Balls can be of different sizes, mass is proportional to the radius of the ball
