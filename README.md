@@ -18,6 +18,10 @@ Run:
 g++ main.cpp -o balls -lsfml-graphics -lsfml-window -lsfml-system -lm
 ````
 
+## Video
+
+[![Watch the video](https://img.youtube.com/vi/IKYKACERB4M/maxresdefault.jpg)](https://youtu.be/IKYKACERB4M)
+
 ## Illustrations
 
 ![alt text](readme-images/image1.png "Illustration")
