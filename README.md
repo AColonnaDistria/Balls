@@ -19,3 +19,5 @@ Assuming you have SFML installed on your system (e.g., via a package manager lik
 ```bash
 g++ main.cpp -o balls -lsfml-graphics -lsfml-window -lsfml-system -lm
 ````
+
+![alt text](readme-images/image1.png "Illustration")
